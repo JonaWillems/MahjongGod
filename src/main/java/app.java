@@ -12,7 +12,7 @@ public class app {
         int noob = o + g;
         
         String x = "noob";
-        
+
         for (int i = 0; i < 12; i++)
             System.out.print(i);
 
