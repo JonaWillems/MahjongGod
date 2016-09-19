@@ -4,6 +4,12 @@
 public class app {
     public static void main(String[] args)
     {
+        int i = 1;
+        int g = 2;
+        int noob = i + g;
+        
+        String x = "noob";
+
 
     }
 
